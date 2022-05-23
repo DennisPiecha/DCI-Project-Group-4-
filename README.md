@@ -56,7 +56,7 @@ lorem
 
 <br><img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%">
 <br><a href= "https://github.com/holledrums">Holledrums on GitHub</a><br>
-<img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%">
+<img style = "border-radius: 50%" src= "./IMG/siham.saidi.jpg" width="15%">
 <br><a href= "https://github.com/sihamsaidi">Siham on GitHub</a><br>
 <img style = "border-radius: 50%" src= "./IMG/minion.jpg" width="15%">
 <br><a href= "https://github.com/dennispiecha">DennisPiecha on GitHub</a><br>
