@@ -69,8 +69,8 @@ LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
 
 ---
 
+
 Made with ❤️ by us
 
-Dennis
-Holger
-Siham
+Dennis | Holger | Siham
+
