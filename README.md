@@ -71,3 +71,24 @@ GitHub: [Holledrums](https://github.com/holledrums)<br> | [Siham](https://github
 Made with ❤️ by us
 
 Dennis | Holger | Siham
+
+Witz des Tages:
+
+In einer Hafenkneipe sitzt ein typischer Pirat an der Theke: Augenklappe, Holzbein, Haken als Hand.
+
+Ein Tourist fragt ihn:
+“Wo haben Sie denn das Bein verloren?”
+
+“Das hat man mir bei einem Kampf vor Trinidad weggeschossen.”
+
+“Und was war mit Ihrer Hand?”
+
+“Ein Säbelhieb, als wir eine Fregatte geentert haben.”
+
+“Und das Auge ?”
+
+“Da hat mir eine Möwe reingeschissen.”
+
+“Aber dadurch verliert man doch kein Auge ?”
+
+“Doch – da hatte ich den Haken gerade erst zwei Tage.”
