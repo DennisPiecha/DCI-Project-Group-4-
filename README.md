@@ -52,8 +52,8 @@ lorem
 
 ### Contact
 
-Mail: <holgeraliusklose@gmail.com><br>
-GitHub: [Holledrums](https://github.com/holledrums)<br>
+Mail: <holgeraliusklose@gmail.com><br> | <dennis.piecha25@gmail.com>
+GitHub: [Holledrums](https://github.com/holledrums)<br> | [DennisPiecha](https://github.com/dennispiecha)
 LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
 
 ---
@@ -69,4 +69,8 @@ LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
 
 ---
 
-Made with ❤️ by me
+Made with ❤️ by us
+
+Dennis
+Holger
+Siham
