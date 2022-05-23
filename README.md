@@ -52,8 +52,8 @@ lorem
 
 ### Contact
 
-Mail: <holgeraliusklose@gmail.com><br>
-GitHub: [Holledrums](https://github.com/holledrums)<br>
+Mail: <holgeraliusklose@gmail.com><br> | siham.saidi2008@gmail.com
+GitHub: [Holledrums](https://github.com/holledrums)<br> [Siham](https://github.com/sihamsaidi)
 LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
 
 ---
