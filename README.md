@@ -6,7 +6,7 @@ Build an Node-App in a working Group
 
 ---
 
-![Conzept scrabble](planning/concept.png)
+![brainstorm scrabble](./IMG/brainstorm.png)
 
 #### Navigation
 
