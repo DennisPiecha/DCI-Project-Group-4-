@@ -30,7 +30,6 @@ Build an Node-App in a working Group
 
 ### About Project
 
-
 Wir sind eine gutes Team
 &&
 Wir entwickeln gemeinsam eine App in Node
@@ -55,8 +54,10 @@ lorem
 
 ### Contact
 
-Mail: <holgeraliusklose@gmail.com><br> | siham.saidi2008@gmail.com | <dennis.piecha25@gmail.com>
-GitHub: [Holledrums](https://github.com/holledrums)<br> | [Siham](https://github.com/sihamsaidi)<br> | [DennisPiecha](https://github.com/dennispiecha)<br>
+Mail: ![holles Bild](/Projekt/DCIAppProjectGroup4/profilHolle.jpeg =80x80)<holgeraliusklose@gmail.com><br> GitHub:
+[Holledrums](https://github.com/holledrums)<br>
+| siham.saidi2008@gmail.com GitHub: [Siham](https://github.com/sihamsaidi)<br> | <dennis.piecha25@gmail.com> GitHub:
+[DennisPiecha](https://github.com/dennispiecha)<br>
 
 ---
 
