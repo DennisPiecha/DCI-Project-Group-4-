@@ -1,6 +1,6 @@
 # DCIAppProjectGroup4
 
-Builld an Node-App in a working Group
+Build an Node-App in a working Group
 
 **[Test this app yourself](github.link)**
 
@@ -30,7 +30,10 @@ Builld an Node-App in a working Group
 
 ### About Project
 
+
 Wir sind eine gutes Team
+&&
+Wir entwickeln gemeinsam eine App in Node
 
 ### How to use this Project
 
