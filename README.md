@@ -54,10 +54,14 @@ lorem
 
 ### Contact
 
-Mail: ![holles Bild](/Projekt/DCIAppProjectGroup4/profilHolle.jpeg =80x80)<holgeraliusklose@gmail.com><br> GitHub:
-[Holledrums](https://github.com/holledrums)<br>
-| siham.saidi2008@gmail.com GitHub: [Siham](https://github.com/sihamsaidi)<br> | <dennis.piecha25@gmail.com> GitHub:
-[DennisPiecha](https://github.com/dennispiecha)<br>
+<img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%">
+<holgeraliusklose@gmail.com><br>
+<a href= "https://github.com/holledrums">Holledrums on GitHub</a><br>
+<img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%"><br>
+<a href= "https://github.com/sihamsaidi">Siham on GitHub</a><br>
+<img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%"><br>
+<a href= "https://github.com/dennispiecha">DennisPiecha on GitHub</a><br>
+<dennis.piecha25@gmail.com><br>
 
 ---
 
