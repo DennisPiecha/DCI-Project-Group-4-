@@ -40,37 +40,32 @@ lorem
 
 ##### Developed With
 
-- [x] _HTML5_
-- [x] _CSS3_
+- [ ] _HTML5_
+- [ ] _CSS3_
 - [ ] _SASS_
 - [ ] _SCSS_
 - [x] _JavaScript_
 - [ ] _React_
 - [ ] _Bootstrap_
 - [x] _npm_
-- [ ] _..._
+- [x] _RapidAPI_
+- [x] _Excalidraw_
 
 ---
 
-### Contact
+### Contact<br>
 
-<br><img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="15%">
-<br><a href= "https://github.com/holledrums">Holledrums on GitHub</a><br>
-<img style = "border-radius: 50%" src= "./IMG/siham.saidi.jpg" width="15%">
-<br><a href= "https://github.com/sihamsaidi">Siham on GitHub</a><br>
-<img style = "border-radius: 50%" src= "./IMG/minion.jpg" width="15%">
-<br><a href= "https://github.com/dennispiecha">DennisPiecha on GitHub</a><br>
+| <img style = "border-radius: 50%" src= "./IMG/profilHolle.jpeg" width="150px"> | <img style = "border-radius: 50%" src= "./IMG/siham.saidi.jpg" width="150px"> | <img style = "border-radius: 50%" src= "./IMG/minion.jpg" width="150px"> |
+| :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|       <a href= "https://github.com/holledrums">Holledrums on GitHub</a>        |         <a href= "https://github.com/sihamsaidi">Siham on GitHub</a>          |  <a href= "https://github.com/dennispiecha">DennisPiecha on GitHub</a>   |
 
 ---
 
 ### Used Tools
 
-- [icons](https://)
-- [Canva](https://www.canva.com/)
 - [npm](https://www.npmjs.com/)
-- [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [ColorZilla](https://www.colorzilla.com/chrome/)
+- [RapidAPI](https://rapidapi.com/apininjas/api/recipe-by-api-ninjas/)
 
 ---
 
