@@ -30,7 +30,7 @@ Builld an Node-App in a working Group
 
 ### About Project
 
-lorem
+Wir sind eine gutes Team
 
 ### How to use this Project
 
@@ -51,7 +51,6 @@ lorem
 ---
 
 ### Contact
-
 
 Mail: <holgeraliusklose@gmail.com><br> | siham.saidi2008@gmail.com | <dennis.piecha25@gmail.com>
 GitHub: [Holledrums](https://github.com/holledrums)<br> | [Siham](https://github.com/sihamsaidi)<br> | [DennisPiecha](https://github.com/dennispiecha)<br>
