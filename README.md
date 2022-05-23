@@ -30,13 +30,11 @@ Build an Node-App in a working Group
 
 ### About Project
 
-Wir sind eine gutes Team
-&&
-Wir entwickeln gemeinsam eine App in Node
+Wir entwickeln eine App die dir dabei hilft ein zufälliges Rezept zu finden, anhand einer beliebigen Zutat
 
 ### How to use this Project
 
-lorem
+Schau in deinem Kühlschrank und nimm eine Zutat, gib diese in der App ein und wir bieten dir 3 super nice Rezeptideen an :)
 
 ##### Developed With
 
