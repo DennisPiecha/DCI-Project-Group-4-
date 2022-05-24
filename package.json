@@ -1,0 +1,27 @@
+{
+  "name": "dciappprojectgroup4",
+  "version": "1.0.0",
+  "description": "Build an Node-App in a working Group",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "chmod +x src/index.js && npm link"
+  },
+  "bin": {
+    "randomRecipe": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holledrums/DCIAppProjectGroup4.git"
+  },
+  "keywords": [],
+  "author": "Siham, Holger, Dennis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holledrums/DCIAppProjectGroup4/issues"
+  },
+  "homepage": "https://github.com/Holledrums/DCIAppProjectGroup4#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
