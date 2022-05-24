@@ -24,7 +24,8 @@ axios
         // immer die ersten drei results
         const result = `${
           index + 1
-        }: ${recipeTitle}\nfür ${recipeServ} brauchst du: ${recipeIngred}\n Zubereitung: ${recipeInstr}`;
+        }: ${recipeTitle}\n\nfür ${recipeServ} brauchst du: ${recipeIngred}\n\nZubereitung: ${recipeInstr}\n`;
+        console.log(result);
       }
     });
   })
