@@ -24,7 +24,7 @@ axios
         // immer die ersten dre results
         const result = `${
           index + 1
-        }: ${recipeTitle}\nfür ${recipeServ} brauchst du: ${recipeIngred}\nZubereitung: ${recipeInstr}`;
+        }: ${recipeTitle}\n\nfür ${recipeServ} brauchst du: ${recipeIngred}\n\nZubereitung: ${recipeInstr}\n`;
         console.log(result);
       }
     });
