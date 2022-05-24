@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="upgrade-insecure-requests"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <title>Random Recipe Generator</title>
+  </head>
+
+  <body>
+    <section class="food">
+      <h1>Random Recipe Generator</h1>
+      <form action="#">
+        <label for="food"> Enter food: </label>
+        <input type="text" name="food" id="food" />
+        <button type="submit" id="btn">Get Recipe</button>
+        <div>
+          <img id="img" src="" />
+        </div>
+        <div id="result"></div>
+      </form>
+    </section>
+
+    <!--axios CDN-->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"
+      integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <!--index.js-->
+    <script src="./scripts/index.js"></script>
+  </body>
+</html>
