@@ -34,7 +34,7 @@ Build an Node-App in a working Group
 
 #### randomRecipe
 
-- App für tolle Rezepte
+- Eine App für tolle Rezepte
 - Mit nur einer Zutat bekommt man 3 Rezepte
 
 ### How to use this Project
