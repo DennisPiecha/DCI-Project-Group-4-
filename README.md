@@ -6,7 +6,9 @@ Build an Node-App in a working Group
 
 ---
 
-![brainstorm scrabble](./IMG/brainstorm.png)
+![brainstorm scrabble](./IMG/brainstorm.png)<br>
+![code1](./IMG/Teil1.png)<br>
+![code2](./IMG/Teil2.png)<br>
 
 #### Navigation
 
@@ -17,20 +19,23 @@ Build an Node-App in a working Group
   - _Description_
   - _Developed With_
 - Contact
-  - _Mail_
+
   - _GitHub_
-  - _LinkedIn_
+
 - Used Tools
-  - _Fonts_
   - _Design_
-  - _Icons_
   - _Colors_
 
 ---
 
 ### About Project
 
-Wir entwickeln eine App die dir dabei hilft ein zufälliges Rezept zu finden, anhand einer beliebigen Zutat
+- Wir entwickeln eine App die dir dabei hilft ein zufälliges Rezept zu finden, anhand einer beliebigen Zutat
+
+#### randomRecipe
+
+- App für tolle Rezepte
+- Mit nur einer Zutat bekommt man 3 Rezepte
 
 ### How to use this Project
 
@@ -38,14 +43,12 @@ Schau in deinem Kühlschrank und nimm eine Zutat, gib diese in der App ein und w
 
 ##### Developed With
 
-- [ ] _HTML5_
-- [ ] _CSS3_
-- [ ] _SASS_
-- [ ] _SCSS_
+- [x] _HTML5_
+- [x] _CSS3_
 - [x] _JavaScript_
-- [ ] _React_
-- [ ] _Bootstrap_
 - [x] _npm_
+- [x] _Axios_
+- [x] _Chalk_
 - [x] _RapidAPI_
 - [x] _Excalidraw_
 

@@ -21,7 +21,7 @@ axios
       let recipeServ = element.servings;
       let recipeInstr = element.instructions;
       if (index < 3) {
-        // immer die ersten dre results
+        // immer die ersten drei results
         const result = `${
           index + 1
         }: ${recipeTitle}\n\nfür ${recipeServ} brauchst du: ${recipeIngred}\n\nZubereitung: ${recipeInstr}\n`;
