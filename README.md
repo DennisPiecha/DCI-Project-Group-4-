@@ -2,8 +2,6 @@
 
 Build an Node-App in a working Group
 
-**[Test this app yourself](github.link)**
-
 ---
 
 ![brainstorm scrabble](./IMG/brainstorm.png)<br>
