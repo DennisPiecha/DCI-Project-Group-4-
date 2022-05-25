@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-const axios = require("axios");
+import chalk from "chalk";
+import axios from "axios";
 const [param] = process.argv.slice(2);
 const options = {
   method: "GET",
@@ -22,9 +23,13 @@ axios
       let recipeInstr = element.instructions;
       if (index < 3) {
         // immer die ersten drei results
-        const result = `${
-          index + 1
-        }: ${recipeTitle}\n\nfür ${recipeServ} brauchst du: ${recipeIngred}\n\nZubereitung: ${recipeInstr}\n`;
+        const result = `${index + 1}: ${chalk.underline.bold.blueBright(
+          recipeTitle
+        )}\n\nfür ${chalk.italic.bold.green(
+          recipeServ
+        )} brauchst du: ${chalk.cyan(
+          recipeIngred
+        )}\n\nZubereitung: ${chalk.redBright(recipeInstr)}\n`;
         console.log(result);
       }
     });
