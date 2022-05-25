@@ -39,6 +39,15 @@ Build an Node-App in a working Group
 
 Schau in deinem Kühlschrank und nimm eine Zutat, gib diese in der App ein und wir bieten dir 3 super nice Rezeptideen an :)
 
+to work with the Code you need to install:
+
+```cmd
+npm init -y
+echo "node_modules/" > .gitignore
+npm i axios
+npm i chalk
+```
+
 ##### Developed With
 
 - [x] _HTML5_
