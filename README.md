@@ -28,7 +28,7 @@ Build an Node-App in a working Group
 
 ### About Project
 
-- Wir entwickeln eine App die dir dabei hilft ein zufälliges Rezept zu finden, anhand einer beliebigen Zutat
+- Wir entwickeln eine App die dir dabei hilft ein zufälliges Rezept zu finden, anhand einer vorhandenen Zutat
 
 #### randomRecipe
 
